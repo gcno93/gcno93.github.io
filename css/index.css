@@ -3778,6 +3778,18 @@ figure.gallery-group .gallery-group-name:after {
     width: 100% !important;
   }
 }
+.post-qrcode {
+  display: inline-block;
+}
+#post-qrcode {
+  float: right;
+  position: absolute;
+  bottom: 30%;
+  background: #fff;
+  width: 140px;
+  height: 140px;
+  display: none;
+}
 #article-container ol,
 #article-container ul {
   margin-top: 0.4rem;
