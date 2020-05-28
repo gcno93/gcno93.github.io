@@ -1,0 +1,12 @@
+.post-qrcode {
+  display: inline-block;
+}
+#post-qrcode {
+  float: right;
+  position: absolute;
+  bottom: 30%;
+  background: #fff;
+  width: 140px;
+  height: 140px;
+  display: none;
+}
