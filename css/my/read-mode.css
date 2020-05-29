@@ -1,0 +1,6 @@
+.read-mode {
+  font-size: 17px;
+}
+[data-theme='light'] .read-mode {
+  background: #fdf6e3;
+}

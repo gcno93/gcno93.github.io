@@ -1,0 +1,10 @@
+.icon-suiji:before {
+    content: "\e788";
+  }
+  /* 卡片处小图标 */
+  .card_icon {
+    /* 修改颜色 */
+    /*color: blue;*/
+    /* 修改大小 */
+    font-size: inherit;
+  }
